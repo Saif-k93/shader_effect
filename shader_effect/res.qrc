@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/my_image.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>shaders/black_white.frag</file>
+        <file>shaders/black_white.vert</file>
+    </qresource>
+</RCC>
